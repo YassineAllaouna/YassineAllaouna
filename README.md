@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YassineAllaouna
-- 👀 Just out from Le Wagon
+- 👀 Just out from Le Wagon Coding School
 - 🌱 I’m currently learning JS and Ruby on Rails
 - 📫 You can reach me at yassine.allaouna@gmail.com
 
