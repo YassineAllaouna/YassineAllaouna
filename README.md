@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Yassine</h1>
-<h3 align="center">A fullstack web developper !</h3>
+<h1 align="center">Hello 👋, je m'appelle Yassine</h1>
+<h3 align="center">Un fullstack web developper !</h3>
 
-- 👨‍💻 My last project was [www.tikit.live](www.tikit.live)
+- 👨‍💻 Mon dernier projet était [www.tikit.live](www.tikit.live)
 
-- 📫 How to reach me **yassine.allaouna@gmail.com**
+- 📫 Comment me contacter **yassine.allaouna@gmail.com**
 
-- ⚡ Fun fact **I love football ☺️**
+- ⚡ Fun fact **J'adore le football ⚽️ 😊**
+- 🎢 A très vite !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
