@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, moi c'est Yassine</h1>
-<h3 align="center">et je suis Dev Web Junior !</h3>
-
-- 🌱 Je suis actuellement en progression sur **Javascript et ses différents frameworks**
+<h1 align="center">Yass</h1>
+<h3 align="center">Dev en (re)devenir</h3>
 
 - 👨‍💻 My last project was [www.tikit.live](www.tikit.live)
 
